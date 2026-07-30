@@ -1,0 +1,1 @@
+This repository serves as the preprocessing pipeline for the solu-opt model. It provides functionality for predicting both the 3D structure and secondary structure sequence of single peptide chains. Use the esmfold_dssp_infering.ipynb notebook directly to run structure prediction on individual peptide inputs.
